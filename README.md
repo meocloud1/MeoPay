@@ -1,2 +1,2 @@
 # MeoPay
-Meocloud Payment Gateway
+
